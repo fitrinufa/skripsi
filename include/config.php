@@ -1,2 +1,2 @@
 <?php
-	$con = new mysqli('localhost','root','','skripsi');
+	$con = new mysqli('localhost','root','','db_212');
